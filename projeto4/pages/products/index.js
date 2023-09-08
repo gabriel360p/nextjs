@@ -1,6 +1,9 @@
+import TagHead from "@/components/Head"
+
 export default function Index(){
     return (
         <>
+        <TagHead title="Produtos"/>
             <div>
                 <h1>Página de Produtos</h1>
                 <ul>
