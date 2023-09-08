@@ -5,6 +5,7 @@ export default function Footer(){
         <>
             <hr/>
             <footer>
+                <h4>Curso Next.js 2023</h4>
                 <a href=""><FaFacebook/></a>
                 <a href=""><FaInstagram/></a>
                 <a href=""><FaLinkedin/></a>
